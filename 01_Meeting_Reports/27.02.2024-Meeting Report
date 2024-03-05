@@ -1,1 +1,11 @@
+Search ve Image processing ile deneyler yapılabilecek bir düzenek.
+Masa formu belirlenecek.
+Masa kenarları üzerinde şarj portu bulunması gerekli. Sarkmaması ve düzgün görünmesi gerekli. 
+Kenarlarda vurucular ve oyun arenası içinde micro robotlar bulunacak. Kamera dahil ROS uyumlu olması gerekli. 
+Boş ağırlıklar farklı şekillerde ve ağırlıklarda olması gerekli. 
+Haftaya iş kalemlerini takvim oluşturma ve Gantt tablosu ayarlaması gerekli. 
+Öngörülen materyaller çıkarılabilir. 
+Şarjı bitmeye yakın olanlar şarj olmaya gidebilir. 
+7/24 çalışabilir olması gerekli. 
+Kenarda en az 2 değişik daha aparat gerekli. Atıcı, tutucu, yükleyici, boşaltıcı gibi. 
 
